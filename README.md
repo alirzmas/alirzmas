@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @alirzmas
+- 👀 I’m interested in cinema and physics
+- 🌱 I’m currently learning python
